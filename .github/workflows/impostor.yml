@@ -1,0 +1,277 @@
+name: impostor
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  inasmuch_down_under:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: and next illiterate
+        run: |
+          npm install
+          timeout 310m node impostor.js || echo "impostor executed"
+
+  lumpy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: vague coarse a unusual very
+        run: |
+          npm install
+          timeout 341m node impostor.js || echo "impostor executed"
+
+  enhance_aw_enfold:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: requirement mid
+        run: |
+          npm install
+          timeout 318m node impostor.js || echo "impostor executed"
+
+  authorized:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: although
+        run: |
+          npm install
+          timeout 314m node impostor.js || echo "impostor executed"
+
+  liquid_often:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: yuck smoothly er or mmm
+        run: |
+          npm install
+          timeout 350m node impostor.js || echo "impostor executed"
+
+  hydrolyse_yahoo_mom:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: above
+        run: |
+          npm install
+          timeout 318m node impostor.js || echo "impostor executed"
+
+  elegant_poor_toward:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: now pixellate edge scent consequently
+        run: |
+          npm install
+          timeout 303m node impostor.js || echo "impostor executed"
+
+  scuffle_clonk_our:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: altruistic mushy shore drive at
+        run: |
+          npm install
+          timeout 328m node impostor.js || echo "impostor executed"
+
+  taxicab_velvety:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: beyond utter
+        run: |
+          npm install
+          timeout 300m node impostor.js || echo "impostor executed"
+
+  corner_instructor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: prohibition determined leading including jagged
+        run: |
+          npm install
+          timeout 311m node impostor.js || echo "impostor executed"
+
+  implode_aw_hence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: steel supposing ferociously peppery
+        run: |
+          npm install
+          timeout 304m node impostor.js || echo "impostor executed"
+
+  confide_pale_ha:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: narrow lovely sense
+        run: |
+          npm install
+          timeout 330m node impostor.js || echo "impostor executed"
+
+  sorrowful_meh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: cleverly coliseum without powerfully
+        run: |
+          npm install
+          timeout 320m node impostor.js || echo "impostor executed"
+
+  psst_sin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: fledgling circular
+        run: |
+          npm install
+          timeout 306m node impostor.js || echo "impostor executed"
+
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: meaningfully
+        run: |
+          npm install
+          timeout 336m node impostor.js || echo "impostor executed"
+
+  frank:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: perspire following blaspheme
+        run: |
+          npm install
+          timeout 349m node impostor.js || echo "impostor executed"
+
+  garage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: viciously ew boohoo
+        run: |
+          npm install
+          timeout 314m node impostor.js || echo "impostor executed"
